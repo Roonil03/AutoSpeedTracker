@@ -149,9 +149,9 @@ Where:
 
 ### System Performance Specifications
 #### Measurement Accuracy
-![image1](https://github.com/Roonil03/AutoSpeedTracker/tree/main/assets/s04351006192025.png)
+![image1](https://github.com/Roonil03/AutoSpeedTracker/blob/main/assets/s04351006192025.png)
 
-![image2](https://github.com/Roonil03/AutoSpeedTracker/tree/main/assets/s04372906192025.png)
+![image2](https://github.com/Roonil03/AutoSpeedTracker/blob/main/assets/s04372906192025.png)
 
 Based on IR sensor technology analysis and system testing
 :
